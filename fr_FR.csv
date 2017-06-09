@@ -1255,7 +1255,7 @@ To,À,module,Magento_Bundle
 "Go back to product details","Revenir aux détails du produit",module,Magento_Bundle
 "Customize and Add to Cart","Personnaliser et ajouter au panier",module,Magento_Bundle
 "* Required Fields","* Champs obligatoires",module,Magento_Bundle
-"Your Customization","Votre personnalisation",module,Magento_Bundle
+"Your Customization","Entrez la quantité de Cabochon personnalisée désirée et ajouter au panier",module,Magento_Bundle
 Availability,Disponibilité,module,Magento_Bundle
 "In stock","En stock",module,Magento_Bundle
 "Out of stock",Épuisé,module,Magento_Bundle
